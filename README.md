@@ -9,7 +9,7 @@
 <hr>
 
 <p>
-:wrench: I'm a DataOps team lead in Receipt Bank with 10+ years of experience in software development<br>
+:wrench: I'm a DataOps lead in Dext with 10+ years of experience in software development<br>
 :penguin: I'm a huge open-source enthusiast who help for the organization of a few local events<br>
 :book: I love learning new stuff and challenge my self, but I always finish whatever I have started<br>
 :speech_balloon: Wanna chat? Please, contact me :point_up:
