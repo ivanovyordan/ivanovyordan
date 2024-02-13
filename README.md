@@ -11,7 +11,7 @@
 <p>
 :wrench: Head of Data Engineering<br>
 :penguin: Open source enthusiast<br>
-:book: constantly learning new thing, but never finishing them<br>
+:book: Constantly learning new thing, but never finishing them<br>
 :speech_balloon: Wanna chat? Please, contact me :point_up:
 </p>
 
